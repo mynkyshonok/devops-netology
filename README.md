@@ -9,3 +9,6 @@ Hello Netology 1
 - файлы override
 - файл .terraform.tfstate.lock.info
 - конфиг файлы CLI terraformrc
+
+--------------------
+New line 1 from PyCharm
