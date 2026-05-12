@@ -12,3 +12,4 @@ Hello Netology 1
 
 --------------------
 New line 1 from PyCharm
+New line 2 from PyCharm
